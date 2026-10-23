@@ -1,0 +1,20 @@
+{
+  "academic_publications_excluded_from_corrected_package": true,
+  "excluded_publication_related_paths": [
+    {
+      "path": "docs/main_manuscript.tex",
+      "sha256": "89dc52aaf8c5f0dd0b2d1b6b799c34327929356dcf6e8ed57457e9834392d619"
+    },
+    {
+      "path": "docs/supplementary_appendix.tex",
+      "sha256": "ba230cb800b14a8dcac26ff83bc749b41cfdf4b053889ebd509b8d26a3f8c1b8"
+    }
+  ],
+  "new_zip_copies_software_files_only": true,
+  "original_release_zip_filename": "bcq-marked-invariants__CP03R1__1490163a5692.zip",
+  "original_release_zip_sha256": "47b32b6abc173cfe8eab602bb8dbd63b53a2e91954f98ae93f1a68bdb6338e50",
+  "public_release_approved": false,
+  "repository": "bcq-marked-invariants",
+  "schema": "invariant.v7.publication_exclusion.v1",
+  "source_archive_unchanged": true
+}

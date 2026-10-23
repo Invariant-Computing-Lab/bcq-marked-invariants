@@ -1,0 +1,11 @@
+violation,fingerprint,detected,n,detection_rate,ci95_low,ci95_high
+Random charge mutation,chi_CW,15955,19999,0.7977898894944747,0.792166345699393,0.8032990547798764
+Random charge mutation,marked relational charge,19999,19999,1.0,0.9998079543434566,1.0
+Adversarial chi-preserving mutation,chi_CW,0,5000,0.0,0.0,0.0007677019450571244
+Adversarial chi-preserving mutation,marked relational charge,5000,5000,1.0,0.9992322980549431,1.0000000000000002
+Color-rank 3->4,chi_CW,0,1000,0.0,2.168404344971009e-19,0.0038267584855551234
+Color-rank 3->4,full fingerprint,1000,1000,1.0,0.996173241514445,1.0
+Hypercharge output perturbation,chi_CW,0,1000,0.0,2.168404344971009e-19,0.0038267584855551234
+Hypercharge output perturbation,full fingerprint,1000,1000,1.0,0.996173241514445,1.0
+Chirality flip,chi_CW,0,1000,0.0,2.168404344971009e-19,0.0038267584855551234
+Chirality flip,full fingerprint,1000,1000,1.0,0.996173241514445,1.0

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this synthetic validation package, cite the accompanying manuscript and archived release."
+title: "BCQ Quotient-Invariant Geometry: Synthetic Falsification and Reproducibility Package"
+version: 1.0.0
+date-released: 2026-08-12
+authors:
+  - family-names: "Yıldırım"
+    given-names: "Emirhan"
+    orcid: "https://orcid.org/0009-0002-5884-3660"

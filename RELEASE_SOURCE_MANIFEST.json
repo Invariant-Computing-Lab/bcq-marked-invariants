@@ -1,0 +1,218 @@
+{
+  "excluded_counts": {
+    "NONSOFTWARE_DOC_OR_SECRET_FORMAT": 7
+  },
+  "files": [
+    {
+      "bytes": 282,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/.github/workflows/source-check.yml",
+      "path": ".github/workflows/source-check.yml",
+      "sha256": "ee3916cd30ed52bbdf5f183c874e542fb06f07f073c5434ab1a43a991fc760b0"
+    },
+    {
+      "bytes": 385,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/CITATION.cff",
+      "path": "CITATION.cff",
+      "sha256": "224121803f411faa5d276867ee1b8b1bd3e202d3a8ef0d511b573b2adb29b1ad"
+    },
+    {
+      "bytes": 508,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/DEPENDENCIES_AND_CHECKS.md",
+      "path": "DEPENDENCIES_AND_CHECKS.md",
+      "sha256": "55b7c5464933249aeeb4d189b747b0c53c6cb23252becc18d244d8bb6f5b2f89"
+    },
+    {
+      "bytes": 6148,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/FILE_MANIFEST.json",
+      "path": "FILE_MANIFEST.json",
+      "sha256": "f3c88851f6746c13b505e5d4d566d5099d1caddacba2e63369219af2be73a4c0"
+    },
+    {
+      "bytes": 1214,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/MANIFEST.md",
+      "path": "MANIFEST.md",
+      "sha256": "307e3584c05318cb36a45c1eefb866ab1260d2ac965834bc19b3caec9c64c60d"
+    },
+    {
+      "bytes": 1824,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/PROTOCOL.md",
+      "path": "PROTOCOL.md",
+      "sha256": "351deb843089677f66115e216b4717b48b1706aa8b5bc7b8b28dac2dbd491a07"
+    },
+    {
+      "bytes": 1830,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/README.md",
+      "path": "README.md",
+      "sha256": "29b296f70420b8bec221493599c477ff7694f2a78cf668c5f6d91bd6009f1a63"
+    },
+    {
+      "bytes": 215,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/RELEASE_NOTES.md",
+      "path": "RELEASE_NOTES.md",
+      "sha256": "ff1d760ca9965999eb8e3b81b9eab0c150f3ef3ff9482fa22ad6de93bc938326"
+    },
+    {
+      "bytes": 1038,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/RELEASE_SPEC.json",
+      "path": "RELEASE_SPEC.json",
+      "sha256": "98bdf36f14eb5941b7eb7c686e369c8453ca7fa0a7ebc38d8301d39c8dd505fb"
+    },
+    {
+      "bytes": 3264,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/RESULTS_SUMMARY.md",
+      "path": "RESULTS_SUMMARY.md",
+      "sha256": "acdb6653484841d5453cde64b0572f85489d391292f981cbe066cfb4d8fd8d26"
+    },
+    {
+      "bytes": 2023,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/REVISION_MAP_FROM_ORIGINAL_BCQ.md",
+      "path": "REVISION_MAP_FROM_ORIGINAL_BCQ.md",
+      "sha256": "e7c813327c23d95fc6ed88a3164c4dd11962dc44b3c01de1aac61307cf902b6e"
+    },
+    {
+      "bytes": 3185,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/SHA256SUMS.txt",
+      "path": "SHA256SUMS.txt",
+      "sha256": "e8202b0d8a8ba78082c323dea941c59485075881cc9429e18f6550f773f04c94"
+    },
+    {
+      "bytes": 1159,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/SUBMISSION_CHECKLIST.md",
+      "path": "SUBMISSION_CHECKLIST.md",
+      "sha256": "e4e9d75fba3ab9f64605174ecabb78d90f561c18f6445e469692deebbcc77abe"
+    },
+    {
+      "bytes": 1413,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/UPSTREAM_README.md",
+      "path": "UPSTREAM_README.md",
+      "sha256": "2b1ddf0fa18aeb60ceb2c2719f4aa1bdcdad215785bb3b2d3bc4c7ff01906689"
+    },
+    {
+      "bytes": 5847,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/checks/RESULT.json",
+      "path": "checks/RESULT.json",
+      "sha256": "7ff36e0f574760dcbc34dbf085ea2f42dfe3380526dbbd05e997afa790a7742d"
+    },
+    {
+      "bytes": 3558,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/code/bcq_invariants.py",
+      "path": "code/bcq_invariants.py",
+      "sha256": "4bde37d78ef0fe5ab62bf5405c86be3dab82aa0442483f5a1cb0dc043079dd08"
+    },
+    {
+      "bytes": 15737,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/code/run_all.py",
+      "path": "code/run_all.py",
+      "sha256": "268741a0aff0d8701948e0df7b9718ce8801e08d0f40ee135418623e6a4f07a2"
+    },
+    {
+      "bytes": 661,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/code/test_invariants.py",
+      "path": "code/test_invariants.py",
+      "sha256": "952a2e0377c2f0130f11806c3469250be81c8d94faced9cbab665a43a757ea10"
+    },
+    {
+      "bytes": 32814,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/docs/main_manuscript.tex",
+      "path": "docs/main_manuscript.tex",
+      "sha256": "89dc52aaf8c5f0dd0b2d1b6b799c34327929356dcf6e8ed57457e9834392d619"
+    },
+    {
+      "bytes": 16356,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/docs/supplementary_appendix.tex",
+      "path": "docs/supplementary_appendix.tex",
+      "sha256": "ba230cb800b14a8dcac26ff83bc749b41cfdf4b053889ebd509b8d26a3f8c1b8"
+    },
+    {
+      "bytes": 170084,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/figures/Fig1_discriminant_reconstructibility.png",
+      "path": "figures/Fig1_discriminant_reconstructibility.png",
+      "sha256": "477ee922134a4b29fecf02971dfe33d76d5c64de74c73d504ec35dd98c6e2d0e"
+    },
+    {
+      "bytes": 136887,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/figures/Fig2_ablation_detection.png",
+      "path": "figures/Fig2_ablation_detection.png",
+      "sha256": "cc2736f1833dbd9dbcb67f0125a9690b54afa0883f795decc5e1c2e03c19519a"
+    },
+    {
+      "bytes": 131634,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/figures/Fig3_discriminant_conditioning.png",
+      "path": "figures/Fig3_discriminant_conditioning.png",
+      "sha256": "a298a77911fe00f4a653e0aeb322d5b22a1083bd702d052fa5cf023e60b7c9b8"
+    },
+    {
+      "bytes": 64,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/requirements.txt",
+      "path": "requirements.txt",
+      "sha256": "4328d106e999d6c1c091657b70434758cb96c70c37459d5a5ea0abd87101fc3a"
+    },
+    {
+      "bytes": 237717,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/E2_chi3_collision_vectors.csv",
+      "path": "results/E2_chi3_collision_vectors.csv",
+      "sha256": "a64d356e2f12c8237b524892e10e4545cd376f68ddb3a24bfa0b54b51b7c0dd6"
+    },
+    {
+      "bytes": 151,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/E2_reconstructibility_ablation.csv",
+      "path": "results/E2_reconstructibility_ablation.csv",
+      "sha256": "0cc0e1f6ec4e61d660b2110de3b587cc356e5e1c212237ae40204ad80c650ad8"
+    },
+    {
+      "bytes": 2160,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/E3_HRR_examples.csv",
+      "path": "results/E3_HRR_examples.csv",
+      "sha256": "ddd2d1c6907283b22b260e15fe1bc501c438d6cbe8e9bc29b51e05e19a2c45aa"
+    },
+    {
+      "bytes": 997,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/E6_discriminant_curve.csv",
+      "path": "results/E6_discriminant_curve.csv",
+      "sha256": "9a04eb3576f51a2277ee05845b8e2af921c4603c7c2fabe77694e0b7fdc76b75"
+    },
+    {
+      "bytes": 90771,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/E7_unit_quotient_examples.csv",
+      "path": "results/E7_unit_quotient_examples.csv",
+      "sha256": "37d37def8b88c0f69f0a2fa8aec9800bbef3f576f79ce6a4a63311eaaa605110"
+    },
+    {
+      "bytes": 916,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/E8_ablation_detection.csv",
+      "path": "results/E8_ablation_detection.csv",
+      "sha256": "16798671fe92cad363cbc62600cb3923b576e9c05464304be592eb2e470f70fd"
+    },
+    {
+      "bytes": 1530,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/run_metadata.json",
+      "path": "results/run_metadata.json",
+      "sha256": "5f51c45629ce8a404dd7a2fe2dd583fa130c24fd560075416f10f8dc126e5c6b"
+    },
+    {
+      "bytes": 5155,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/run_stdout.txt",
+      "path": "results/run_stdout.txt",
+      "sha256": "6ba25fff37d9a4a20ea817530df1337b651ce8785caab5ae5645921df0320b4c"
+    },
+    {
+      "bytes": 1699,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/results/summary.csv",
+      "path": "results/summary.csv",
+      "sha256": "a11d90b7c67004518d9461ca8e6d4a48dbd449145e21d8e1cad88ef0d7625dd1"
+    },
+    {
+      "bytes": 2366,
+      "original_source_member": "Invariant_CP03R1/github/bcq-marked-invariants/run_checks.py",
+      "path": "run_checks.py",
+      "sha256": "9a59bff276aad8abeba201a01fa2a29525db6af9e71ebb83a58a7cc6cea56990"
+    }
+  ],
+  "published_files": 34,
+  "repository": "github/bcq-marked-invariants",
+  "schema": "invariant.source_member_manifest.v1",
+  "scope": "source files + minimal repository metadata; no new training or independent experiment",
+  "selected_from_files": 41,
+  "source_archive": "CP03R1",
+  "source_archive_sha256": "9507b5a42e661ae7588ab69cb395597749f043c419ebd981a6c91051516a3209"
+}
